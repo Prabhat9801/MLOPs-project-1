@@ -1,7 +1,7 @@
 **/mongodb.txt
-notebook/mongoDB_demo.ipynb
 artifact/
 logs/
+notebook\mongoDB_demo.ipynb
 
 
 # Byte-compiled / optimized / DLL files
