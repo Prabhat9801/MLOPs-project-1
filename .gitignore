@@ -1,8 +1,8 @@
 **/mongodb.txt
 artifact/
 logs/
-notebook\mongoDB_demo.ipynb
-
+notebook/mongoDB_demo.ipynb
+vehicle/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
